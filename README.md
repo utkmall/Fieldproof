@@ -6,10 +6,6 @@ AI-assisted crop insurance claim assessment system that uses weather intelligenc
 
 FieldProof analyzes crop insurance claims using claim features, weather conditions, and trained ML models to generate a preliminary assessment. The system is designed to reduce manual verification effort and help prioritize claims for further review.
 
-## Architecture
-
-![FieldProof Architecture](docs/architecture.png)
-
 ## Multi-Agent Layer
 
 FieldProof uses specialized agents for different stages of claim assessment:
@@ -57,5 +53,3 @@ Satellite and remote-sensing integration
 Crop-specific prediction models
 Anomaly and fraud detection
 Automated claim prioritization
-
-**This is the version I'd actually put on your GitHub.** It's enough to understand the project, has the architecture visual, explains the multi-agent layer, and doesn't drown whoever opens the repo in documentation.
