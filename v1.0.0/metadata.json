@@ -1,0 +1,33 @@
+{
+    "version": "v1.0.0",
+    "features": [
+        "district",
+        "crop",
+        "season",
+        "PRECTOTCORR_agg",
+        "EVPTRNS_agg",
+        "T2M_agg",
+        "T2M_MAX_agg",
+        "T2M_MIN_agg",
+        "ALLSKY_SFC_SW_DWN_agg",
+        "RH2M_agg",
+        "WS2M_agg",
+        "GWETROOT_agg",
+        "gdd_daily_agg",
+        "heat_stress_daily_agg",
+        "abs_tmax",
+        "max_consecutive_dry_days",
+        "rainfall_z_score",
+        "soil_moisture_z_score",
+        "water_balance",
+        "rainfall_anomaly_mm",
+        "extreme_rain_days",
+        "heatwave_days",
+        "soil_deficit_days",
+        "compound_stress_days",
+        "SPEI_proxy_z_score"
+    ],
+    "metrics": {
+        "extreme_event_mae": 0.3701
+    }
+}
